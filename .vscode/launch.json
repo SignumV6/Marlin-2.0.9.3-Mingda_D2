@@ -1,0 +1,47 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+//
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "c:/Users/Guenther/Desktop/Firmware Mingda D2/Marlin-2.0.9.3 Tramming OK + About/Marlin-2.0.9.3-Mingda_D2/.pio/build/STM32F103ZE_D301/firmware.elf",
+            "projectEnvName": "STM32F103ZE_D301",
+            "toolchainBinDir": "C:/Users/Guenther/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Guenther/.platformio/platforms/ststm32/misc/svd/STM32F103xx.svd",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug"
+            }
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "c:/Users/Guenther/Desktop/Firmware Mingda D2/Marlin-2.0.9.3 Tramming OK + About/Marlin-2.0.9.3-Mingda_D2/.pio/build/STM32F103ZE_D301/firmware.elf",
+            "projectEnvName": "STM32F103ZE_D301",
+            "toolchainBinDir": "C:/Users/Guenther/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Guenther/.platformio/platforms/ststm32/misc/svd/STM32F103xx.svd"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (without uploading)",
+            "executable": "c:/Users/Guenther/Desktop/Firmware Mingda D2/Marlin-2.0.9.3 Tramming OK + About/Marlin-2.0.9.3-Mingda_D2/.pio/build/STM32F103ZE_D301/firmware.elf",
+            "projectEnvName": "STM32F103ZE_D301",
+            "toolchainBinDir": "C:/Users/Guenther/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Guenther/.platformio/platforms/ststm32/misc/svd/STM32F103xx.svd",
+            "loadMode": "manual"
+        }
+    ]
+}
