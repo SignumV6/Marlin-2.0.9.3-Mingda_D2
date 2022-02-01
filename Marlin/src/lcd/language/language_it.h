@@ -493,7 +493,7 @@ namespace Language_it {
   LSTR MSG_HOME_FIRST                     = _UxGT("Home %s%s%s prima");
   LSTR MSG_TRAMMING_FB1                   = _UxGT("Roteare %s:\n%s in giro %.2f gira e ");
   LSTR MSG_TRAMMING_FB2                   = _UxGT("%d Minuti\n  (%.2f mm)%s\n ");
-  LSTR MSG_GO_TRAMMING                    = _UxGT(" \n \n \n \nViene eseguita la misurazione...");  // GST 
+  LSTR MSG_GO_TRAMMING                    = _UxGT(" \n \n \n \nViene eseguita la misurazione...");
   LSTR MSG_ZPROBE_OFFSETS                 = _UxGT("Offsets sonda");
   LSTR MSG_ZPROBE_XOFFSET                 = _UxGT("Offset X sonda");
   LSTR MSG_ZPROBE_YOFFSET                 = _UxGT("Offset Y sonda");

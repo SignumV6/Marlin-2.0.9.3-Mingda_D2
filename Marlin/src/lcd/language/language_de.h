@@ -433,7 +433,7 @@ namespace Language_de {
   LSTR MSG_HOME_FIRST                     = _UxGT("Vorher %s%s%s homen");
   LSTR MSG_TRAMMING_FB1                   = _UxGT("Drehe %s:\n%s um %.2f Umdrehungen und ");
   LSTR MSG_TRAMMING_FB2                   = _UxGT("%d Minuten\n  (%.2f mm)%s\n ");
-  LSTR MSG_GO_TRAMMING                    = _UxGT(" \n \n \n \nVermessung wird durchgeführt...");  // GST
+  LSTR MSG_GO_TRAMMING                    = _UxGT(" \n \n \n \nVermessung wird durchgeführt...");
   LSTR MSG_ZPROBE_OFFSETS                 = _UxGT("Sondenversatz");
   LSTR MSG_ZPROBE_XOFFSET                 = _UxGT("Sondenversatz X");
   LSTR MSG_ZPROBE_YOFFSET                 = _UxGT("Sondenversatz Y");
