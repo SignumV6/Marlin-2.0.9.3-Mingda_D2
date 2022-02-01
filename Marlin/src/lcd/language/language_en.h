@@ -507,6 +507,9 @@ namespace Language_en {
   LSTR MSG_MANUAL_DEPLOY                  = _UxGT("Deploy Z-Probe");
   LSTR MSG_MANUAL_STOW                    = _UxGT("Stow Z-Probe");
   LSTR MSG_HOME_FIRST                     = _UxGT("Home %s%s%s First");
+  LSTR MSG_TRAMMING_FB1                   = _UxGT("Turn %s:\n%s by %.2f turnsn and ");
+  LSTR MSG_TRAMMING_FB2                   = _UxGT("%d Minutes\n  (%.2f mm)%s\n ");
+  LSTR MSG_GO_TRAMMING                    = _UxGT(" \n \n \n \nMeasurement is carried out...");  // GST
   LSTR MSG_ZPROBE_SETTINGS                = _UxGT("Probe Settings");
   LSTR MSG_ZPROBE_OFFSETS                 = _UxGT("Probe Offsets");
   LSTR MSG_ZPROBE_XOFFSET                 = _UxGT("Probe X Offset");

@@ -602,6 +602,9 @@ namespace Language_ru {
   LSTR MSG_MANUAL_DEPLOY                    = _UxGT("Установить зонд");
   LSTR MSG_MANUAL_STOW                      = _UxGT("Загрузить зонд");
   LSTR MSG_HOME_FIRST                       = _UxGT("Сначала паркуй %s%s%s");
+  LSTR MSG_TRAMMING_FB1                     = _UxGT("вращение %s:\n%s вокруг %.2f поворачивается и");
+  LSTR MSG_TRAMMING_FB2                     = _UxGT("%d минуты\n  (%.2f mm)%s\n ");
+  LSTR MSG_GO_TRAMMING                      = _UxGT(" \n \n \n \nизмерение проводится...");  // GST  
   LSTR MSG_ZPROBE_OFFSETS                   = _UxGT("Смещения Z-зонда");
   LSTR MSG_ZPROBE_XOFFSET                   = _UxGT("Смещение X");
   LSTR MSG_ZPROBE_YOFFSET                   = _UxGT("Смещение Y");
